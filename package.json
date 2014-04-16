@@ -9,11 +9,19 @@
   "scripts": {
     "test": "tape test/*.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saebekassebil/daisy-resources.git"
+  },
+  "author": {
+    "name": "Jakob Miland",
+    "email": "saebekassebil@gmail.com",
+    "url": "http://saebekassebil.me"
+  },
   "keywords": [
     "daisy",
     "resources"
   ],
-  "author": "Jakob Miland",
   "license": "MIT",
   "dependencies": {
     "cheerio": "~0.15.0"
