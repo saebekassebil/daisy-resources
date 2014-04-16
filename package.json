@@ -1,6 +1,6 @@
 {
   "name": "daisy-resources",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A data representation of a DAISY 2.02 book",
   "main": "index.js",
   "directories": {
